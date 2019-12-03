@@ -23,7 +23,8 @@ let components = [
     'Notifications',
     'DisableNotifications',
     'PurifyCss',
-    'DumpWebpackConfig'
+    'DumpWebpackConfig',
+    'Svelte'
 ];
 
 class ComponentFactory {

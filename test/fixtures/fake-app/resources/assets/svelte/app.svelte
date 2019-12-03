@@ -1,0 +1,3 @@
+<script>
+    alert('stub')
+</script>
